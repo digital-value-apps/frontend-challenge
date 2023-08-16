@@ -6,6 +6,6 @@ We want to have a better understanding of the online demand and navigate inside 
 
 Implement a way to navigate inside the categories of the online demand.
 
-The `GET /api/categories.json` endpoint returns the category tree and `GET /api/volumes/${id}.json` returns the monthly search volume a keyword category gets each month, over the last 48 months.
+The `GET /api/categories.json` endpoint returns the category tree and `GET /api/volumes/${id}.json` returns the monthly search volume a keyword category gets each month, over the 48 months prior to July 2022.
 
 Then go to [next level](../level3)
