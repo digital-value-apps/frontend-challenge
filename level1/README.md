@@ -2,12 +2,12 @@
 
 You are asked to build a very simple data viz application.
 
-The metric observed is the volume of searches in Google for a given list of keywords, structured in a category tree.
+The metric observed is the monthly volume of searches in Google for a given list of keywords, structured in a category tree. It shows how often terms or phrases related to a category are searched for in Google each month.
 
 # Level 1 - Fetch and display data
 
-We want to display in a nice graph the evolution of the search volume for the top-level category. We would like to display the last 24 months by default and we would be able to change the selected period to navigate into the data.
+We want to display in a nice graph the evolution of the monthly search volume for the top-level category. We would like to display the last 24 months by default and we would be able to change the selected period to navigate into the data.
 
-The API `GET /api/volumes/250162.json` returns the sum of the search volume per month for all the keywords monitored.
+The `GET /api/volumes/250162.json` endpoint returns the total monthly search volume, for each month, over the past 48 months, and for all monitored keywords.
 
 Then go to [next level](../level2)

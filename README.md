@@ -13,7 +13,7 @@ Welcome to the Digital Value Frontend Challenge! Thank for your interest in part
 
 ## Goal
 
-The objective is to implement a simple data visualization application that must display the evolution of the online demand for a given selection of keywords (ie. the search volume).
+The objective is to implement a simple data visualization application that must display the evolution of online demand for a given selection of keywords. Online demand is measured using monthly search volumes in Google.
 
 Each level of the challenge is based on top of the previous one, so you can leverage what you already did.
 

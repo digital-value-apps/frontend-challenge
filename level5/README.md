@@ -1,6 +1,6 @@
 # Intro
 
-Now we can log in and log out, we should allow your users to recover their selection when the come back to the application.
+Now that we can login and logout, we should allow your users to recover their selection when returning to the application.
 
 # Level 5 - Persist user selection (optional)
 
